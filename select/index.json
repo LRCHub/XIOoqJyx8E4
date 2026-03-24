@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Zero",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-03-24T18:48:34.439865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Zero Trucks",
+      "artist": "Alana Springsteen",
+      "has_synced": true,
+      "path": "select/01_Zero_Trucks_Alana_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Day Called Zero",
+      "artist": "The Sugarcubes",
+      "has_synced": false,
+      "path": "select/02_A_Day_Called_Zero_The_Sugarcubes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Climbing Up the Walls (Zero 7 Mix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/03_Climbing_Up_the_Walls_(Zero_7_Mix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug feat. Quavo",
+      "has_synced": true,
+      "path": "select/04_Sub_Zero_Young_Thug_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/05_Sub_Zero_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zero",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/06_Zero_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "RE: Zero",
+      "artist": "Lil Boom",
+      "has_synced": false,
+      "path": "select/07_RE__Zero_Lil_Boom.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zero",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/08_Zero_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "257.Zero",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/09_257.Zero_Moby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Euro Zero Zero",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Euro_Zero_Zero_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Provider (Zero 7 remix)",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/11_Provider_(Zero_7_remix)_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The New Face of Zero and One",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/12_The_New_Face_of_Zero_and_One_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zero Sum",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/13_Zero_Sum_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Zero Sum - Stephen Morris And Gillian Gilbert",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/14_Zero_Sum_-_Stephen_Morris_And_Gillian_Gilbert_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Zero-Sum (Stephen Morris and Gillian Gilbert)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/15_Zero-Sum_(Stephen_Morris_and_Gillian_Gilbert)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Zero",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_Zero_NewJeans.txt"
+    }
+  ]
+}
